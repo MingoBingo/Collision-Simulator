@@ -1,0 +1,11 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+collision_engine
+raylib/
+Makefile
+
+*.o
+*.a
+*.so
+
