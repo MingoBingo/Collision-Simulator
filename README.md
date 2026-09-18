@@ -41,3 +41,7 @@ cmake --build build
 
 # Run the simulation
 ./build/collision_engine
+```
+
+---
+*Note: This README was generated with AI assistance.*
